@@ -27,7 +27,12 @@ convenience.
 • Multiple accounts. Interface allows support of multiple accounts.
 • Works in real time. Receive mail in real time.
 • Various sorting algorithms used. To sort mails based on name, size etc.
-CONCEPTS USED
+
+
+---
+
+# CONCEPTS USED
+
 • OOPs concept such as overriding, exceptional handling, abstract classes, Interfaces and 
 inheritance will be implemented.
 • Data Structures – List
