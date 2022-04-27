@@ -1,4 +1,5 @@
 #INTRODUCTION 
+
 A Desktop Email System, designed using JavaFx (a software platform for creating and delivering 
 desktop applications) which will support actions like sending and receiving mail, handling 
 attachments, changing the background colour and it will support real time actions. We have 
@@ -8,6 +9,7 @@ convenience.
 ---
 
 #WORKFLOW
+
 1. Designing the basic Layout (includes JavaFx)
 2. Adding CSS to JavaFx.
 3. Using JavaMail API. It provides a platform-independent and protocol-independent 
@@ -19,6 +21,7 @@ framework to build mail and messaging applications
 ---
 
 #FUNCTIONALITY
+
 • Login Popup
 • Basic email functionalities.
 • Themes support. Changing colour themes, change of font size, resizing columns.
