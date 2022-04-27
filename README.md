@@ -21,13 +21,14 @@ convenience.
 
 # FUNCTIONALITY
 
-• Login Popup
-• Basic email functionalities.
+<ul>
+  <li> Login Popup </li>
+  <li> Basic email functionalities. </li>
 • Themes support. Changing colour themes, change of font size, resizing columns.
 • Multiple accounts. Interface allows support of multiple accounts.
 • Works in real time. Receive mail in real time.
 • Various sorting algorithms used. To sort mails based on name, size etc.
-
+</ul>
 
 ---
 
@@ -35,6 +36,7 @@ convenience.
 
 • OOPs concept such as overriding, exceptional handling, abstract classes, Interfaces and 
 inheritance will be implemented.
+
 • Data Structures – List
 • Concepts of JavaFx
 • Listening on events – such as Mouse clicked
