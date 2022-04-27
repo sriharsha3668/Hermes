@@ -24,19 +24,20 @@ convenience.
 <ul>
   <li> Login Popup </li>
   <li> Basic email functionalities. </li>
-• Themes support. Changing colour themes, change of font size, resizing columns.
-• Multiple accounts. Interface allows support of multiple accounts.
-• Works in real time. Receive mail in real time.
-• Various sorting algorithms used. To sort mails based on name, size etc.
+  <li> Themes support. Changing colour themes, change of font size, resizing columns.</li>
+  <li> Multiple accounts. Interface allows support of multiple accounts.</li>
+  <li> Works in real time. Receive mail in real time.</li>
+  <li> Various sorting algorithms used. To sort mails based on name, size etc.</li>
 </ul>
 
 ---
 
 # CONCEPTS USED
 
-• OOPs concept such as overriding, exceptional handling, abstract classes, Interfaces and 
-inheritance will be implemented.
-
-• Data Structures – List
-• Concepts of JavaFx
-• Listening on events – such as Mouse clicked
+<ul>
+<li> OOPs concept such as overriding, exceptional handling, abstract classes, Interfaces and 
+inheritance will be implemented. </li>
+<li> Data Structures – List </li>
+<li> Concepts of JavaFx </li>
+<li> Listening on events – such as Mouse clicked </li>
+</ul>
